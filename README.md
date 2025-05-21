@@ -53,3 +53,5 @@ This repo i made to store some information about the steps i need to follow afte
 * xfce4-terminal.xml - Checking (The Terminal app interface and little)
 
 * xfce4-desktop.xml - Checking (Desktop Interface)
+
+* xsettings.xml & xfwm4.xml - Checking (Maybe the dark theme will work from here)
