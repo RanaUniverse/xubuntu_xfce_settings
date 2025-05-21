@@ -64,15 +64,8 @@
       <property name="stay-on-focus-out" type="bool" value="true"/>
       <property name="sort-categories" type="bool" value="false"/>
       <property name="recent" type="array">
-        <value type="string" value="org.xfce.mousepad.desktop"/>
-        <value type="string" value="org.xfce.mousepad-settings.desktop"/>
-        <value type="string" value="xfce-settings-manager.desktop"/>
         <value type="string" value="org.telegram.desktop._2fbb96522ad0f9628422ceb1039fbc4d.desktop"/>
         <value type="string" value="brave-browser.desktop"/>
-        <value type="string" value="update-manager.desktop"/>
-        <value type="string" value="xfce-ui-settings.desktop"/>
-        <value type="string" value="xfce4-dict.desktop"/>
-        <value type="string" value="firmware-updater_firmware-updater.desktop"/>
         <value type="string" value="code.desktop"/>
       </property>
       <property name="show-command-switchuser" type="bool" value="false"/>
