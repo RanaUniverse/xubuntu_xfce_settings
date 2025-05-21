@@ -12,10 +12,14 @@ This repo i made to store some information about the steps i need to follow afte
 
 ## Some Manual Steps
 
-1. I will make some folders, ex. `RanaUniverse`, `workspaces`.
+0. I will also make one `~/.apps_and_softwares`, where i will keep the differnet apps and wallpaper also. (mkdir -p ~/.apps_and_softwares)
 
-2. Some My Images need to transfer to ~/Pictures/ using this command: `cp ./files_and_folders/inside_pictures/* ~/Pictures/`
+1. I will make some folders, ex. `RanaUniverse`, `workspaces`. (`mkdir -p ~/RanaUniverse ~/workspaces`)
 
+2. I will make the `wallpapers` folder in the `~/.apps_and_softwares` and then place two image black.png and white.png. (`cp -rv ./files_and_folders/wallpapers/ ~/.apps_and_softwares/`)
+
+
+3. Some My Images need to transfer to ~/Pictures/ using this command: `cp ./files_and_folders/inside_pictures/* ~/Pictures/`
 
 
 ### Some Settings (Experimental)
@@ -36,3 +40,16 @@ This repo i made to store some information about the steps i need to follow afte
 
 *. I dont get the dark and white theme how will work
 
+
+
+### XML Files Checked:
+
+* xfce4-keyboard-shortcuts.xml - The Keyboard shortcuts in systemwide are kept here.
+
+* xfce4-panel.xml - The Panel will come to below and the app menu will be big.
+
+* xfce4-power-manager.xml - This is shows the battery percentage and the auto sleep and suspand and so on are here.
+
+* xfce4-terminal.xml - Checking (The Terminal app interface and little)
+
+* xfce4-desktop.xml - Checking (Desktop Interface)
