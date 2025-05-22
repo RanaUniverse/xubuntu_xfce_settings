@@ -22,4 +22,5 @@
   <property name="color-cursor-use-default" type="bool" value="true"/>
   <property name="misc-middle-click-opens-uri" type="bool" value="true"/>
   <property name="misc-right-click-action" type="string" value="TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU"/>
+  <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
 </channel>
