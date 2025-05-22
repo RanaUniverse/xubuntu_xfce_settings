@@ -12,7 +12,7 @@ This repo i made to store some information about the steps i need to follow afte
 
 ## Some Manual Steps
 
-0. I will also make one `~/.apps_and_softwares`, where i will keep the differnet apps and wallpaper also. (mkdir -p ~/.apps_and_softwares)
+0. I will also make one `~/.apps_and_softwares`, where i will keep the differnet apps and wallpaper also. (`mkdir -p ~/.apps_and_softwares`)
 
 1. I will make some folders, ex. `RanaUniverse`, `workspaces`. (`mkdir -p ~/RanaUniverse ~/workspaces`)
 
@@ -32,16 +32,6 @@ This repo i made to store some information about the steps i need to follow afte
 
 
 
-
-
-### Some informations
-
-*. I dont know if the wallpapers will works fine or not
-
-*. I dont get the dark and white theme how will work
-
-
-
 ### XML Files Checked:
 
 * xfce4-keyboard-shortcuts.xml - The Keyboard shortcuts in systemwide are kept here.
@@ -55,3 +45,14 @@ This repo i made to store some information about the steps i need to follow afte
 * xfce4-desktop.xml - Checking (Desktop Interface)
 
 * xsettings.xml & xfwm4.xml - Checking (Maybe the dark theme will work from here)
+
+* Thunar.xml - It saves the file manager settings and user interface.
+
+
+
+### Some informations
+
+*. I dont know if the wallpapers will works fine or not
+
+*. I dont get the dark and white theme how will work :- The Theme will be in a place
+
