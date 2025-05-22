@@ -34,6 +34,10 @@ This repo i made to store some information about the steps i need to follow afte
 
 ### XML Files Checked:
 
+* Thunar.xml - Checking (It saves the file manager settings and user interface.)
+
+* xfce4-desktop.xml - Checking (Desktop Interface)
+
 * xfce4-keyboard-shortcuts.xml - The Keyboard shortcuts in systemwide are kept here.
 
 * xfce4-panel.xml - The Panel will come to below and the app menu will be big.
@@ -42,12 +46,7 @@ This repo i made to store some information about the steps i need to follow afte
 
 * xfce4-terminal.xml - Checking (The Terminal app interface and little)
 
-* xfce4-desktop.xml - Checking (Desktop Interface)
-
 * xsettings.xml & xfwm4.xml - Checking (Maybe the dark theme will work from here)
-
-* Thunar.xml - It saves the file manager settings and user interface.
-
 
 
 ### Some informations
