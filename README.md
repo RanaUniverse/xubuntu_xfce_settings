@@ -55,3 +55,9 @@ This repo i made to store some information about the steps i need to follow afte
 
 *. I dont get the dark and white theme how will work :- The Theme will be in a place
 
+The Below command examole to edit a file.
+`sed "s/RANA_UNIVERSE/$(whoami)/g" files_and_folders/backup_xml_files/filename.xml > a.xml`
+The two files here are: 
+`xfce4-desktop.xml` - To Change the wallpaper.
+`xfce4-panel.xml` - To allow the linux logo in the app menu.
+
