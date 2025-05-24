@@ -68,11 +68,15 @@ echo "For Dark Theme ... >>> Copying: xsettings.xml & xfwm4.xml"
 cp -v files_and_folders/backup_xml_files/xfwm4.xml "$TARGET_DIR"
 cp -v files_and_folders/backup_xml_files/xsettings.xml "$TARGET_DIR"
 
+
+echo "The Terminal Alias will be create now."
+
+./terminal_alias.sh
+
+
 echo "✅ All files copied and special files processed with username!"
 
 echo "Please reboot the system to see the effects."
 
 
 
-### 
-echo "The problems are the wallpapers files are not work when the username = rana-universe will work but not this works for others name."
