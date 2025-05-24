@@ -26,7 +26,7 @@ This repo i made to store some information about the steps i need to follow afte
 
 *. In ~/.config/xfce4 there are some files and folders which i need to backup, i will manually see how the backup will work and later fix this one by one.
 
-*. The configuration of the settings are mainly stored in the `~/Documents/xfce4-backup/xfce4/xfconf/xfce-perchannel-xml` as [the .xml files](./images_and_videos/2_xfce4_settings.png).
+*. The configuration of the settings are mainly stored in the `~/Documents/xfce4-backup/xfce4/xfconf/xfce-perchannel-xml` as [the .xml files](./files_and_folders/images_and_videos/2_xfce4_settings.png).
 
 *. The settings are stored maybe in this folders so for now i keep the whole bkup as zip and then i will see how this work and then i will make one one files.xml and keep store the settings.
 
