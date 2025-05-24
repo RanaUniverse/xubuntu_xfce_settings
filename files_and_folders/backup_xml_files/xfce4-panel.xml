@@ -57,8 +57,8 @@
       <property name="show-button-title" type="bool" value="true"/>
       <property name="button-title" type="string" value="Rana Universe 🍌🍌🍌"/>
       <property name="button-icon" type="string" value="/home/RANA_UNIVERSE/Pictures/linux_logo.png"/>
-      <property name="default-category" type="int" value="2"/>
-      <property name="category-icon-size" type="int" value="3"/>
+      <property name="default-category" type="int" value="0"/>
+      <property name="category-icon-size" type="int" value="2"/>
       <property name="position-search-alternate" type="bool" value="false"/>
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="stay-on-focus-out" type="bool" value="true"/>
