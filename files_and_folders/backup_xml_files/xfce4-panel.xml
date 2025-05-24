@@ -74,6 +74,11 @@
       <property name="show-command-suspend" type="bool" value="true"/>
       <property name="show-command-settings" type="bool" value="false"/>
       <property name="show-command-profile" type="bool" value="true"/>
+      <property name="favorites" type="array">
+        <value type="string" value="brave-browser.desktop"/>
+        <value type="string" value="code.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+      </property>
     </property>
     <property name="plugin-2" type="string" value="separator">
       <property name="style" type="uint" value="1"/>
