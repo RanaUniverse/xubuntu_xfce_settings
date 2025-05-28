@@ -1,6 +1,7 @@
 ## Xubuntu Xfce Settings
 
-Current Version: 24.04
+Current Version: 24.04 LTS
+
 [Download Page Link](http://mirror.aarnet.edu.au/pub/xubuntu/releases/24.04/release/)
 
 [Direct Download Link](https://mirror.aarnet.edu.au/pub/xubuntu/releases/24.04/release/xubuntu-24.04.2-desktop-amd64.iso)
@@ -48,15 +49,14 @@ This repo i made to store some information about the steps i need to follow afte
 * xsettings.xml & xfwm4.xml - Checking (Maybe the dark theme will work from here)
 
 
-### Some informations
-
-*. I dont know if the wallpapers will works fine or not
+## Some informations
 
 *. I dont get the dark and white theme how will work :- The Theme will be in a place
 
-The Below command examole to edit a file.
+The Below command example to edit a file.
 `sed "s/RANA_UNIVERSE/$(whoami)/g" files_and_folders/backup_xml_files/filename.xml > a.xml`
 The two files here are: 
+
 `xfce4-desktop.xml` - To Change the wallpaper.
 `xfce4-panel.xml` - To allow the linux logo in the app menu.
 
