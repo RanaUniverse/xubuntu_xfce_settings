@@ -4,6 +4,7 @@ echo "The Xubuntu XFCE settings will be applied here."
 mkdir -p ~/.apps_and_softwares
 
 mkdir -p ~/RanaUniverse
+cp -v files_and_folders/inside_RanaUniverse/* ~/RanaUniverse
 
 mkdir -p ~/workspaces
 
@@ -72,7 +73,6 @@ cp -v files_and_folders/backup_xml_files/xsettings.xml "$TARGET_DIR"
 echo "The Terminal Alias will be create now."
 
 ./terminal_alias_*.sh
-
 
 echo "✅ All files copied and special files processed with username!"
 
