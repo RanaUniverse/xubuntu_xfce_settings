@@ -60,3 +60,9 @@ The two files here are:
 `xfce4-desktop.xml` - To Change the wallpaper.
 `xfce4-panel.xml` - To allow the linux logo in the app menu.
 
+
+
+## How i will make the Release Zip
+
+I need to change the version name in the `making_zip.sh` file and then run that script.
+Which will make the zip and i will need to upload the zip in the Release Section.
