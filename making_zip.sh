@@ -4,10 +4,10 @@
 
 
 
-
-echo "This will make the zip file for the release of this repo."
+repo_name=$(basename "$(pwd)")
 
 VERSION="v1.0.0"
 
-zip -r "xubuntu_xfce_settings_$VERSION.zip" . -x "*.git*"
+zip -r "${repo_name}_$VERSION.zip" . -x "*.git*"
 
+echo "This zip file is made for the release of this repo, i.e., $repo_name."
