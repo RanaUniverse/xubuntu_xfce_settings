@@ -71,7 +71,7 @@ cp -v files_and_folders/backup_xml_files/xsettings.xml "$TARGET_DIR"
 
 echo "The Terminal Alias will be create now."
 
-./terminal_alias.sh
+./terminal_alias_*.sh
 
 
 echo "✅ All files copied and special files processed with username!"

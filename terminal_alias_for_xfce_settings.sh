@@ -10,7 +10,7 @@
 
 
 
-echo "Some My own Terminal Alias is Creating Now. -Rana Universe 🍌🍌🍌>"
+echo "✅ Some My own Terminal Alias is Creating Now. -Rana Universe 🍌🍌🍌>"
 
 
 (cat << 'EOF' && cat ~/.bashrc) > ~/.bashrc.tmp && mv ~/.bashrc.tmp ~/.bashrc
