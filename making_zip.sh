@@ -4,9 +4,9 @@
 
 
 
-repo_name=$(basename "$(pwd)")
-
 VERSION="v1.0.0"
+
+repo_name=$(basename "$(pwd)")
 
 zip -r "${repo_name}_$VERSION.zip" . -x "*.git*"
 
