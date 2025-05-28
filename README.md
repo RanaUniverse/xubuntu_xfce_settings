@@ -31,6 +31,8 @@ This repo i made to store some information about the steps i need to follow afte
 
 ### XML Files Checked:
 
+* keyboard-layout.xml - The Keyboard Language will be in this file.
+
 * Thunar.xml - Checking (It saves the file manager settings and its interface.)
 
 * xfce4-desktop.xml - Checking (Desktop Interface)
