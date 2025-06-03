@@ -9,6 +9,7 @@ cp -v files_and_folders/inside_RanaUniverse/* ~/RanaUniverse
 mkdir -p ~/workspaces
 
 cp -rv ./files_and_folders/wallpapers/ ~/.apps_and_softwares/
+cp -rv ./files_and_folders/scripts_for_shortcuts ~/.apps_and_softwares/
 
 cp ./files_and_folders/inside_pictures/* ~/Pictures/
 
