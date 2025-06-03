@@ -1,3 +1,4 @@
+# Full Screen capture will be in this script
 
 # Generate current timestamp once to use in filename
 
