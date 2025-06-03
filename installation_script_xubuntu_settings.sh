@@ -41,6 +41,9 @@ sed "s/RANA_UNIVERSE/$(whoami)/g" files_and_folders/backup_xml_files/xfce4-panel
 echo "For Desktop Interface >>> Copying: displays.xml"
 cp -v files_and_folders/backup_xml_files/displays.xml "$TARGET_DIR"
 
+echo "For Keyboard Language Bengali & English Layout Settings >>> Copying: keyboard-layout.xml"
+cp -v files_and_folders/backup_xml_files/keyboard-layout.xml "$TARGET_DIR"
+
 echo "For File Manager Application Beheaviour & Interface >>> Copying: thunar.xml"
 cp -v files_and_folders/backup_xml_files/thunar.xml "$TARGET_DIR"
 

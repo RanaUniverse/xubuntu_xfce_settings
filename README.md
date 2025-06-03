@@ -31,6 +31,7 @@ This repo i made to store some information about the steps i need to follow afte
 
 
 ### XML Files Checked:
+In the installation script i need to sure all file got transfered carefully.
 
 * keyboard-layout.xml - The Keyboard Language will be in this file.
 
