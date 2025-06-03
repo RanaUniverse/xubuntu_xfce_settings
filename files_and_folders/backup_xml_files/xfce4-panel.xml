@@ -60,7 +60,7 @@
       <property name="default-category" type="int" value="0"/>
       <property name="category-icon-size" type="int" value="2"/>
       <property name="position-search-alternate" type="bool" value="false"/>
-      <property name="hover-switch-category" type="bool" value="true"/>
+      <property name="hover-switch-category" type="bool" value="false"/>
       <property name="stay-on-focus-out" type="bool" value="true"/>
       <property name="sort-categories" type="bool" value="false"/>
       <property name="recent" type="array">
