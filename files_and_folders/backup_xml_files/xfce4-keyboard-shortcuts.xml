@@ -238,6 +238,10 @@
       <property name="&lt;Super&gt;Down" type="string" value="tile_down_key"/>
       <property name="&lt;Super&gt;Left" type="string" value="tile_left_key"/>
       <property name="&lt;Super&gt;Right" type="string" value="tile_right_key"/>
+      <property name="&lt;Super&gt;KP_7" type="string" value="tile_up_left_key"/>
+      <property name="&lt;Super&gt;KP_9" type="string" value="tile_up_right_key"/>
+      <property name="&lt;Super&gt;KP_1" type="string" value="tile_down_left_key"/>
+      <property name="&lt;Super&gt;KP_3" type="string" value="tile_down_right_key"/>
     </property>
   </property>
   <property name="providers" type="array">
