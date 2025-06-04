@@ -83,9 +83,9 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;&lt;Super&gt;r" type="string" value="reboot"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;&lt;Super&gt;s" type="string" value="systemctl suspend"/>
       <property name="&lt;Super&gt;i" type="string" value="xfce4-settings-manager"/>
-      <property name="Print" type="string" value="/home/manik-rana/.apps_and_softwares/scripts_for_shortcuts/screenshot_fullscreen.sh"/>
-      <property name="&lt;Shift&gt;Print" type="string" value="/home/manik-rana/.apps_and_softwares/scripts_for_shortcuts/screenshot_active_windows.sh"/>
-      <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="/home/manik-rana/.apps_and_softwares/scripts_for_shortcuts/screenshot_rectangle_selection.sh"/>
+      <property name="Print" type="string" value="/home/RANA_UNIVERSE/.apps_and_softwares/scripts_for_shortcuts/screenshot_fullscreen.sh"/>
+      <property name="&lt;Shift&gt;Print" type="string" value="/home/RANA_UNIVERSE/.apps_and_softwares/scripts_for_shortcuts/screenshot_active_windows.sh"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;Print" type="string" value="/home/RANA_UNIVERSE/.apps_and_softwares/scripts_for_shortcuts/screenshot_rectangle_selection.sh"/>
       <property name="&lt;Super&gt;v" type="string" value="xfce4-clipman-history"/>
     </property>
   </property>

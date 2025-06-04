@@ -12,6 +12,8 @@ cp -rv ./files_and_folders/wallpapers/ ~/.apps_and_softwares/
 cp -rv ./files_and_folders/scripts_for_shortcuts ~/.apps_and_softwares/
 
 cp ./files_and_folders/inside_pictures/* ~/Pictures/
+echo "The Screenshots will be saved in the folder."
+mkdir -pv ~/Pictures/screenshots
 
 
 
@@ -32,6 +34,8 @@ mkdir -p "$TARGET_DIR" && echo "Directory ensured: $TARGET_DIR"
 echo "🛠️ Username is changing in this file: xfce4-desktop.xml"
 sed "s/RANA_UNIVERSE/$(whoami)/g" files_and_folders/backup_xml_files/xfce4-desktop.xml > "$TARGET_DIR/xfce4-desktop.xml"
 
+echo "🛠️ Username is changing in this file: xfce4-keyboard-shortcuts.xml"
+sed "s/RANA_UNIVERSE/$(whoami)/g" files_and_folders/backup_xml_files/xfce4-keyboard-shortcuts.xml > "$TARGET_DIR/xfce4-keyboard-shortcuts.xml"
 
 echo "🛠️ Username is changing in this file: xfce4-panel.xml"
 sed "s/RANA_UNIVERSE/$(whoami)/g" files_and_folders/backup_xml_files/xfce4-panel.xml > "$TARGET_DIR/xfce4-panel.xml"
@@ -46,9 +50,6 @@ cp -v files_and_folders/backup_xml_files/keyboard-layout.xml "$TARGET_DIR"
 
 echo "For File Manager Application Beheaviour & Interface >>> Copying: thunar.xml"
 cp -v files_and_folders/backup_xml_files/thunar.xml "$TARGET_DIR"
-
-echo "For Keyboard Shortcuts >>> Copying: xfce4-keyboard-shortcuts.xml"
-cp -v files_and_folders/backup_xml_files/xfce4-keyboard-shortcuts.xml "$TARGET_DIR"
 
 echo " For ... >>> Copying: xfce4-notifyd.xml"
 cp -v files_and_folders/backup_xml_files/xfce4-notifyd.xml "$TARGET_DIR"
