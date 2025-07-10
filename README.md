@@ -1,6 +1,6 @@
 ## Xubuntu Xfce Settings
 
-Current Version: 24.04 LTS
+Current Version: 24.04.2 LTS
 
 [Download Page Link](http://mirror.aarnet.edu.au/pub/xubuntu/releases/24.04/release/)
 
